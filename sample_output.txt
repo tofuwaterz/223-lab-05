@@ -1,0 +1,31 @@
+Added John cart into today sale.
+Added Alice cart into today sale.
+John's cart contains:
+pizza: 5.0
+chocolate: 11.6
+Total price: 16.6
+Alice's cart contains:
+banana: 3.5
+milk: 2.0
+Total price: 5.5
+Removed pizza from John's cart.
+Added bread (1.5) to Alice's cart.
+Alice qualifies for a 10% discount.
+deque(['John', 'Alice'])
+Current queue: deque(['John', 'Alice'])
+John is checking out...
+John's cart contains:
+chocolate: 11.6
+Total price: 11.6
+John qualifies for a 10% discount.
+Final total: 10.44
+Current queue: deque(['Alice'])
+Alice is checking out...
+Alice's cart contains:
+banana: 3.5
+milk: 2.0
+bread: 1.5
+Total price: 7.0
+Alice qualifies for a 10% discount.
+Final total: 6.30
+Queue is empty.
